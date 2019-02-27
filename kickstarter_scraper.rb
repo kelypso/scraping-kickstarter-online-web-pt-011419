@@ -9,6 +9,8 @@ def create_project_hash
   # uses Nokogiri's #HTML to parse into nodes
   kickstarter = Nokogiri::HTML(html) 
   
+  projects = {}
+  
   
  
 end
