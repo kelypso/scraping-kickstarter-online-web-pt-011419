@@ -26,6 +26,7 @@ end
 
 create_project_hash
 
+# *find selectors and save to be implemented into code!
 # projects: kickstarter.css("li.project.grid_4")
 # title: project.css("h2.bbcard_name strong a").text
 # image: 
